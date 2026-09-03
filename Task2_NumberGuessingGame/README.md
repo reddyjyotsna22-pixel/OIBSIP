@@ -56,3 +56,22 @@ The computer generates a random number based on the selected difficulty level, a
 
 ```bash
 javac NumberGuessingGame.java
+## Screenshots
+
+### Difficulty Selection
+![Options Selection](screenshots/options.png)
+
+### Too Low
+![Too Low](screenshots/too low.png)
+
+### Too High
+![Too High](screenshots/too high.png)
+
+### Correct Guess
+![Correct](screenshots/correct.png)
+
+### You Lost
+![You Lost](screenshots/lost.png)
+
+### Play Again
+![Thanks for Playing](screenshots/thanks.png)
