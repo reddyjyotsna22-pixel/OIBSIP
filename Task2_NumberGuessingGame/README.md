@@ -58,7 +58,7 @@ The computer generates a random number based on the selected difficulty level, a
 javac NumberGuessingGame.java
 ## Screenshots
 
-### Difficulty Selection
+### Options Selection
 ![Options Selection](screenshots/options.png)
 
 ### Too Low
@@ -73,5 +73,5 @@ javac NumberGuessingGame.java
 ### You Lost
 ![You Lost](screenshots/lost.png)
 
-### Play Again
+### Thanks for Playing
 ![Thanks for Playing](screenshots/thanks.png)
